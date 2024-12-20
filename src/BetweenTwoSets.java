@@ -29,10 +29,6 @@ class BetweenTwoSets {
         return a;
     }
 
-    public static int getTotalX (List<Integer>a, List<Integer>b) {
-        return 0;
-    }
-
     public static void main (String[] args) {
         // Write your code here
 
