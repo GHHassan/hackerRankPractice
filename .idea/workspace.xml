@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1589af-95e8-409f-8c70-c2c986c5e7b5" name="Changes" comment="first and second batch of practice">
-      <change afterPath="$PROJECT_DIR$/src/beginner/CaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beginner/TwoSums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/CountVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/CountVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/FactrialCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/MaxNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/MaxNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/PalindromeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/PalindromeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/SumOfOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/SumOfOdds.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +28,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;GHHassan&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GHHassan"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/GHHassan/hackerRankPractice.git&quot;,
-    &quot;accountId&quot;: &quot;3bbc3bf3-b977-469a-a179-b4e990815471&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GHHassan/hackerRankPractice.git",
+    "accountId": "3bbc3bf3-b977-469a-a179-b4e990815471"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -64,97 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CaesarCipher.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxNum.executor": "Run",
-    "Application.PalindromeChecker.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.SumOfOdds.executor": "Run",
-    "Application.TwoSums.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="CountVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.CountVowels" />
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginner.Main" />
       <module name="practiceChallanges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.Factorial" />
-      <module name="practiceChallanges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.Fibonacci" />
-      <module name="practiceChallanges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.FizzBuzz" />
-      <module name="practiceChallanges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beginner.SumOfDigits" />
-      <module name="practiceChallanges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beginner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.CountVowels" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -199,15 +116,7 @@
       <option name="project" value="LOCAL" />
       <updated>1735091763840</updated>
     </task>
-    <task id="LOCAL-00005" summary="first and second batch of practice">
-      <option name="closed" value="true" />
-      <created>1735122040632</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1735122040632</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
