@@ -13,7 +13,7 @@ import java.util.List;
  */
 public class Fibonacci {
 
-    public List<Integer> calcFib(int n) {
+    public static List<Integer> calcFib(int n) {
         List<Integer>result = new ArrayList<>();
         if(n ==0) return result;
         result.add(0);
@@ -26,5 +26,9 @@ public class Fibonacci {
             result.add(result.get(i-1)+result.get(i-2));
         }
         return result;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(calcFib(8));
     }
 }

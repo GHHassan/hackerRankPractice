@@ -8,10 +8,14 @@ Example: factorial(5) = 5 * 4 * 3 * 2 * 1 = 120.
 
  */
 
-public class FactrialCalc {
+public class Factorial {
 
-    public int calc(int num) {
-        if(num <=1) return 1;
+    public static int calc(int num) {
+        if(num <= 1) return 1;
         return num * (calc(num-1));
+    }
+
+    public static void main(String[] args) {
+        System.out.println(calc(9));
     }
 }

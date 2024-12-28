@@ -10,30 +10,29 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FizzBuzz {
-    private List<Integer> list;
 
-    public FizzBuzz(){
-        this.list = this.generateList();
-    }
-
-    public List<Integer> generateList() {
+    public static List<Integer> generateList() {
         List<Integer> list = new ArrayList<>();
         for(int i = 1 ; i <= 100 ; i++){
             list.add(i);
         }
         return list;
     }
-
-    public void printFizzBuzz(){
-        for (Integer i : this.list){
-            if(i % 3 == 0 && i % 5 ==0 ){
+    static List<Integer> list =generateList();
+    public static void printFizzBuzz () {
+        for (Integer i : list) {
+            if (i % 3 == 0 && i % 5 == 0) {
                 System.out.println("beginner.FizzBuzz");
-            }else if(i % 3 ==0) {
+            } else if (i % 3 == 0) {
                 System.out.println("Fizz");
-            }else{
+            } else {
                 System.out.println(i);
             }
         }
+    }
+
+    public static void main(String[] args) {
+        printFizzBuzz();
     }
 
 }

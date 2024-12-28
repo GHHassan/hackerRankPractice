@@ -7,7 +7,7 @@ package beginner;
  */
 public class CountVowels {
 
-    public int count(String str) {
+    public static int count(String str) {
         String vowels = "aeiou";
         str = str.toLowerCase();
         int count = 0;
@@ -19,5 +19,10 @@ public class CountVowels {
             }
         }
         return count;
+    }
+
+    public static void main(String[] args) {
+        String str = "asf;jiasdfsadfifelnies";
+        System.out.println(count(str));
     }
 }
